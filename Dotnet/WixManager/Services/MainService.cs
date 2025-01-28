@@ -20,7 +20,7 @@ namespace WixManager.Service
     {
         private readonly IConfiguration _Configuration;
         private static  bool _processIsRunning = false;
-        private const string _bearer = "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";
+        private const string _bearer = "";
        // private const  int MaxThreads = 4;
         public MainService( IConfiguration configuration)
         {
