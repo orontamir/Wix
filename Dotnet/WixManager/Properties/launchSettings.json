@@ -1,0 +1,15 @@
+{
+
+    "Serilog": {
+        "MinimumLevel": {
+            "Default": "Information",
+            "Override": {
+                "Microsoft": "Warning",
+                "System": "Warning"
+            }
+        }
+    },
+    "PathFile": "C:\\Wix\\queries",
+    "MaxThreads": 4
+
+}
